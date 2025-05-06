@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [GitHub Repository]()
-- Live Site URL: [Live Demo]()
+- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Recipe-Page)
+- Live Site URL: [Live Demo](https://ayokanmi-adejola.github.io/Recipe-Page/)
 
 ## My process
 
