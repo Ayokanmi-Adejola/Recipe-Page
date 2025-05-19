@@ -20,11 +20,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![](./preview.jpg)
 
-### Links
-
-- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Recipe-Page)
-- Live Site URL: [Live Demo](https://ayokanmi-adejola.github.io/Recipe-Page/)
-
 ## My process
 
 ### Built with
@@ -101,6 +96,4 @@ In future projects, I want to focus on:
 
 ## Author
 
-- Website - [Ayokanmi Adejola](https://ayokanmi-adejola-portfolio.netlify.app/)
 - Frontend Mentor - [@Ayokanmi Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
-- Twitter - [@Ayokanmi Adejola](https://x.com/AyoAdejola100)
